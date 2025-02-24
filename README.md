@@ -17,6 +17,6 @@ source .venv/bin/activate           # Activate the virtual environment (Linux/ma
 .venv\Scripts\activate              # Activate the virtual environment for Windows:
 pip install -r requirements.txt     # Install project dependencies
 pip3 freeze > requirements.txt      # Copy the python dependencies to requirements.txt
-jupyter lab                         # Run the local Jupiter notebook web server (http://localhost:8888/lab/)
+jupyter notebook                    # Run the local Jupiter notebook web server (http://localhost:8888/lab/)
 ```
 
