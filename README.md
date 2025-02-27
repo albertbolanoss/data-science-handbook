@@ -20,3 +20,6 @@ pip3 freeze > requirements.txt      # Copy the python dependencies to requiremen
 jupyter notebook                    # Run the local Jupiter notebook web server (http://localhost:8888/lab/)
 ```
 
+## References:
+
+- [Notebooks](https://colab.research.google.com/github/ageron/handson-ml3/blob/main/).
